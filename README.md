@@ -16,10 +16,10 @@ Welcome to the **Omega Men's Watches** landing page! This project is built using
 
 ## 📸 Screenshots
 ### 🖼️ Landing Page
-![Landing Page](images/Screenshot 2025-02-23 151321.png)
+[![Landing Page](images/Screenshot 2025-02-23 151321.png)](https://github.com/Adeeb-Ali24/Omega-mens-watches-landing-page/blob/main/images/Screenshot%202025-02-23%20151321.png)
 
 ### 🖼️ Product Showcase Section
-![Product Section](images/Screenshot 2025-02-23 151813.png)
+https://github.com/Adeeb-Ali24/Omega-mens-watches-landing-page/blob/main/images/Screenshot%202025-02-23%20151813.png
 
 ## 🚀 How to Use
 1. **Clone the repository**
